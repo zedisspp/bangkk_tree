@@ -25,4 +25,4 @@ git clone https://$MY_TOKEN@github.com/zedisspp/android_hardware_samsung_slsi_nf
 git clone https://$MY_TOKEN@github.com/zedisspp/vendor_sony_dolby.git -b sixteen vendor/sony/dolby
 
 # Sign Keys
-git clone https://$MY_TOKEN@github.com/zedisspp/vendor_lineage-priv_keys.git -b master vendor/lineage-priv/keys
+git clone https://$MY_TOKEN@github.com/zedisspp/vendor_lineage-priv_keys.git -b infinity vendor/infinity-priv/keys
