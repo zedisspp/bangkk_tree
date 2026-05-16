@@ -9,7 +9,7 @@ curl -LSs "https://raw.githubusercontent.com/zedisspp/bangkk_tree/blob/main/bran
 Axion OS
 
 ```
-curl -LSs "https://raw.githubusercontent.com/zedisspp/bangkk_tree/blob/main/branch/axion.sh" | bash -s main
+curl -LSs "https://raw.githubusercontent.com/zedisspp/bangkk_tree/refs/heads/main/branch/axion.sh" | bash -s main
 ```
 
 Lunaris Aosp
